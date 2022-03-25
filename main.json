@@ -153,7 +153,7 @@
                  "height":50,
                  "id":22,
                  "name":"start_chaotisch-inkorrekt",
-                 "opacity":1,
+                 "opacity":0,
                  "properties":[
                         {
                          "name":"startLayer",
@@ -171,7 +171,7 @@
                  "height":50,
                  "id":23,
                  "name":"exit_chaotisch-inkorrekt",
-                 "opacity":1,
+                 "opacity":0,
                  "properties":[
                         {
                          "name":"exitUrl",
@@ -189,7 +189,7 @@
                  "height":50,
                  "id":25,
                  "name":"start_kidspace",
-                 "opacity":1,
+                 "opacity":0,
                  "properties":[
                         {
                          "name":"startLayer",
@@ -207,7 +207,7 @@
                  "height":50,
                  "id":24,
                  "name":"exit_kidspace",
-                 "opacity":1,
+                 "opacity":0,
                  "properties":[
                         {
                          "name":"exitUrl",
@@ -225,7 +225,7 @@
                  "height":50,
                  "id":27,
                  "name":"start_codereviewpit",
-                 "opacity":1,
+                 "opacity":0,
                  "properties":[
                         {
                          "name":"startLayer",
@@ -243,7 +243,7 @@
                  "height":50,
                  "id":26,
                  "name":"exit_codereviewpit",
-                 "opacity":1,
+                 "opacity":0,
                  "properties":[
                         {
                          "name":"exitUrl",
@@ -261,7 +261,7 @@
                  "height":50,
                  "id":29,
                  "name":"start_framaworld",
-                 "opacity":1,
+                 "opacity":0,
                  "properties":[
                         {
                          "name":"startLayer",
@@ -279,7 +279,7 @@
                  "height":50,
                  "id":28,
                  "name":"exit_framaworld",
-                 "opacity":1,
+                 "opacity":0,
                  "properties":[
                         {
                          "name":"exitUrl",
@@ -293,7 +293,7 @@
                  "y":0
                 }],
          "name":"start_exit",
-         "opacity":0,
+         "opacity":1,
          "type":"group",
          "visible":true,
          "x":0,
