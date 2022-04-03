@@ -355,6 +355,11 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE to go to Heaven"
                 }],
          "type":"tilelayer",
          "visible":true,
