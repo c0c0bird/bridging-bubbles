@@ -152,7 +152,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/_\/global\/world.di.c3voc.de\/maps\/chaotischinkorrekt\/map.json"
+                         "value":"\/_\/global\/raw.githubusercontent.com\/the-white-one\/chaotischInkorrekt\/master\/main.json"
                         }],
                  "type":"tilelayer",
                  "visible":true,
