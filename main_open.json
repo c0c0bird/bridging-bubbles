@@ -296,7 +296,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/_\/global\/raw.codeberg.page\/Computertruhe\/DiVOC-Assembly\/main.json"
+                         "value":"#start_kindernet"
                         }],
                  "type":"tilelayer",
                  "visible":true,
