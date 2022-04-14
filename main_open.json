@@ -201,13 +201,8 @@
                  "height":50,
                  "id":46,
                  "name":"start_chaostrawler",
-                 "opacity":0,
+                 "opacity":0.72,
                  "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"\/_\/global\/raw.githubusercontent.com\/rieselgold\/chaostrawler\/main\/main.json"
-                        }, 
                         {
                          "name":"startLayer",
                          "type":"bool",
