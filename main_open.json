@@ -229,7 +229,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/_\/global\/raw.githubusercontent.com\/rieselgold\/chaostrawler\/main\/main.json"
+                         "value":"\/_\/global\/raw.githubusercontent.com\/rieselgold\/chaostrawler\/divocbb3\/main.json"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -445,7 +445,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/_\/global\/raw.githubusercontent.com\/rieselgold\/moneybin\/main\/main.json"
+                         "value":"\/_\/global\/raw.githubusercontent.com\/rieselgold\/moneybin\/divocbb3\/main.json"
                         }],
                  "type":"tilelayer",
                  "visible":true,
