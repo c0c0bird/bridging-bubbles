@@ -476,7 +476,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/_\/global\/raw.githubusercontent.com\/c0c0bird\/rc3-map-lounge\/divoc-bb3\/main.json"
+                         "value":"\/_\/global\/raw.githubusercontent.com\/rieselgold\/rc3-map-lounge\/divoc-bb3\/main.json"
                         }],
                  "type":"tilelayer",
                  "visible":true,
