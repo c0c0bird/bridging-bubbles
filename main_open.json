@@ -201,7 +201,7 @@
                  "height":50,
                  "id":46,
                  "name":"start_chaostrawler",
-                 "opacity":0.72,
+                 "opacity":0,
                  "properties":[
                         {
                          "name":"startLayer",
