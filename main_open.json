@@ -188,7 +188,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/_\/global\/world.di.c3voc.de\/maps\/kidspace\/main.json"
+                         "value":"\/_\/global\/raw.githubusercontent.com\/elzbeth-git\/c3wamaps\/main\/main.json"
                         }],
                  "type":"tilelayer",
                  "visible":true,
