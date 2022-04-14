@@ -296,7 +296,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"#start_kindernet"
+                         "value":"\/_\/global\/uli.pages.ub.uni-bielefeld.de\/wa-kindernet\/main.json"
                         }],
                  "type":"tilelayer",
                  "visible":true,
